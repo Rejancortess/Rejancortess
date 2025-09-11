@@ -17,7 +17,11 @@
 </td>
 <td>
 
-<img src="https://media4.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" width="350" style="border-radius: 10px;" />
+<!-- Pac-Man GIF -->
+<img src="https://media4.giphy.com/media/mj4ruS6mHkdKEdmwc1/giphy.gif" width="350" style="border-radius: 10px;" /><br><br>
+
+<!-- Snake GIF (fixed path) -->
+<img src="https://github.com/Rejancortess/Rejancortess/blob/output/dist/github-contribution-grid-snake.gif?raw=true" width="350" style="border-radius: 10px;" />
 
 </td>
 </tr>
