@@ -36,16 +36,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="256" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAxY21wejJ1a3V2OWJsb2dkd3k2cnJqYmxnczdsb3U3OWtqemIwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/242zpyuzTjjrDDopRj/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rejancortess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Rejancortess&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
